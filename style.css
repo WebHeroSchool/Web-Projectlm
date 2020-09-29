@@ -1,14 +1,16 @@
-h1  {
+h1 {
   color: green;
   font-family:'Courier Prime', monospace; 
 }
-p  {
+p {
   font-family: 'Courier Prime', monospace;
-  font-family: 'Merriweather', serif; }
-a  {
+  font-family: 'Merriweather', serif;
+}
+a {
   font-family: 'Courier Prime', monospace;
   font-family: 'Josefin Sans', sans-serif;
-  font-family: 'Merriweather', serif; }
-button  {
+  font-family: 'Merriweather', serif;
+}
+button {
   color: pink;
 }
