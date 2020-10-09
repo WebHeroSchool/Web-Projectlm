@@ -16,3 +16,26 @@ a {
 
 button { color: pink; }
 
+.wraper {
+  margin: auto;
+  width: 80%;
+}
+
+body { margin: 0; }
+
+.header {
+  display:flex;
+  justify-content:space-between;
+}
+
+.logo { padding:40px 0; }
+
+.menu {
+  display: flex;
+  align-items:center;
+}
+
+.menu__item { padding: 0 13px; }
+
+.menu__item:last-child { padding-right: 0; }
+
