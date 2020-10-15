@@ -62,9 +62,9 @@ body { margin: 0; }
 }
 
 .logo__circle_color_blue {
- left: 8px;
- top: 56%;
- background: #C8DBFB;
- border-radius: 50%;
- opacity: .7;
+  left: 8px;
+  top: 56%;
+  background: #C8DBFB;
+  border-radius: 50%;
+  opacity: .7;
 }
