@@ -30,7 +30,7 @@ body { margin: 0; }
   position: relative;
   padding: 40px 0;
   padding-left: 44px;
-  font:bold 24px/32px pt_serif;
+  font-family: bold 24px/32px pt_serif;
 }
 
 .menu {
@@ -51,7 +51,7 @@ body { margin: 0; }
   position: absolute;
   background: #0056ec;
   border-radius: 50%;
-  opacity: .7;
+  opacity: 0.7;
 }
 
 .logo__circle_color_blue {
@@ -59,6 +59,6 @@ body { margin: 0; }
   top: 56%;
   background: #c8dbfb;
   border-radius: 50%;
-  opacity: 0.7 ;
+  opacity: 0.7;
 }
 
