@@ -3,10 +3,7 @@ h1 {
   font-family: 'Courier Prime', monospace;
 }
 
-p {
-  font-family: 'Courier Prime', monospace;
-  font-family: 'Merriweather', serif;
-}
+p { font-family: 'Roboto', normal }
 
 a {
   font-family: 'Courier Prime', monospace;
