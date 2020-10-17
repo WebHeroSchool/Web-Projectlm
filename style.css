@@ -1,9 +1,15 @@
 h1 {
   color: green;
-  font-family: 'Courier Prime', monospace;
+  font-family: PT Serif;
+  font-style: normal;
+  font-weight: bold;
 }
 
-p { font-family: 'Roboto', sans-serif; }
+p { 
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: normal;
+ }
 
 a {
   font-family: 'Courier Prime', monospace;
