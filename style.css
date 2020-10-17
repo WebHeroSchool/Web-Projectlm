@@ -1,5 +1,4 @@
 h1 {
-  color: green;
   font-family: PT Serif;
   font-style: normal;
   font-weight: bold;
@@ -12,9 +11,9 @@ p {
  }
 
 a {
-  font-family: 'Courier Prime', monospace;
-  font-family: 'Josefin Sans', sans-serif;
-  font-family: 'Merriweather', serif;
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: 500;
 }
 
 button { color: pink; }
