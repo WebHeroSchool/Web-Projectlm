@@ -1,14 +1,14 @@
 h1 {
-  font-family: PT Serif;
+  font-family: bold, pt Serif;
   font-style: normal;
   font-weight: bold;
 }
 
-p { 
+p {
   font-family: Roboto;
   font-style: normal;
   font-weight: normal;
- }
+}
 
 a {
   font-family: Roboto;
