@@ -22,7 +22,7 @@
   font-family: 'pt_serifitalic';
   src: url('ptserif-italic-webfont.woff') format('woff');
   font-weight: normal;
-  one-style: normal;
+  font-style: normal;
 }
 
 
@@ -70,6 +70,7 @@
 
 
 
+
 @font-face {
   font-family: 'Roboto-Bolditalic';
   src: url('Roboto-Bolditalic.woff') format('woff');
@@ -78,6 +79,7 @@
   font-size: 22px;
   line-height: 26px;
 }
+
 
 
 
@@ -92,6 +94,7 @@
 
 
 
+
 @font-face {
   font-family: 'Roboto-Light';
   src: url('Roboto-Light.woff') format('woff');
@@ -103,6 +106,7 @@
 
 
 
+
 @font-face {
   font-family: 'Roboto-Lightitalic';
   src: url('Roboto-Lightitalic.woff') format('woff');
@@ -111,6 +115,7 @@
   font-size: 22px;
   line-height: 26px;
 }
+
 
 
 
@@ -137,6 +142,7 @@
 
 
 
+
 @font-face {
   font-family: 'Roboto-Regular';
   src: url('Roboto-Regular.woff') format('woff');
@@ -145,6 +151,7 @@
   font-size: 22px;
   line-height: 26px;
 }
+
 
 
 
@@ -159,6 +166,7 @@
 
 
 
+
 @font-face {
   font-family: 'Roboto-Thinitalic';
   src: url('Roboto-Thinitalic.woff') format('woff');
@@ -167,3 +175,6 @@
   font-size: 22px;
   line-height: 26px;
 }
+
+
+
