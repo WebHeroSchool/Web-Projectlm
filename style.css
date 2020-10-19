@@ -1,19 +1,25 @@
 h1 {
-  font-family: bold, pt Serif;
+  font-family: PT Serif;
   font-style: normal;
   font-weight: bold;
+  font-size: 66px;
+  line-height: 87px;
 }
 
 p {
   font-family: Roboto;
   font-style: normal;
-  font-weight: normal;
+  font-weight: 400;
+  font-size: 22px;
+  line-height: 26px;
 }
 
 a {
   font-family: Roboto;
   font-style: normal;
   font-weight: 500;
+  font-size: 18px;
+  line-height: 21px;
 }
 
 button { color: pink; }
@@ -35,7 +41,11 @@ body { margin: 0; }
   position: relative;
   padding: 40px 0;
   padding-left: 44px;
-  font-family: bold 24px/32px pt_serif;
+  font-family: PT Serif;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 24px;
+  line-height: 32px;
 }
 
 .menu {
