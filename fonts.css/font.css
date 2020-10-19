@@ -12,9 +12,6 @@
   font-style: normal;
 }
 
-
-
-
 @font-face {
   font-family: 'pt_serifitalic';
   src: url('ptserif-italic-webfont.woff') format('woff');
@@ -22,17 +19,12 @@
   font-style: normal;
 }
 
-
-
-
 @font-face {
   font-family: 'pt_serifregular';
   src: url('ptserif-regular-webfont.woff') format('woff');
   font-weight: normal;
   font-style: normal;
 }
-
-
 
 @font-face {
   font-family: 'Roboto-Black';
@@ -43,8 +35,6 @@
   line-height: 26px;
 }
 
-
-
 @font-face {
   font-family: 'Roboto-Blackitalic';
   src: url('Roboto-Blackitalic.woff') format('woff');
@@ -53,8 +43,6 @@
   font-size: 22px;
   line-height: 26px;
 }
-
-
 
 @font-face {
   font-family: 'Roboto-Bold';
@@ -65,9 +53,6 @@
   line-height: 26px;
 }
 
-
-
-
 @font-face {
   font-family: 'Roboto-Bolditalic';
   src: url('Roboto-Bolditalic.woff') format('woff');
@@ -76,9 +61,6 @@
   font-size: 22px;
   line-height: 26px;
 }
-
-
-
 
 @font-face {
   font-family: ' Roboto-italic';
@@ -89,9 +71,6 @@
   line-height: 26px;
 }
 
-
-
-
 @font-face {
   font-family: 'Roboto-Light';
   src: url('Roboto-Light.woff') format('woff');
@@ -100,9 +79,6 @@
   font-size: 22px;
   line-height: 26px;
 }
-
-
-
 
 @font-face {
   font-family: 'Roboto-Lightitalic';
@@ -113,9 +89,6 @@
   line-height: 26px;
 }
 
-
-
-
 @font-face {
   font-family: 'Roboto-Medium';
   src: url('Roboto-Medium.woff') format('woff');
@@ -124,9 +97,6 @@
   font-size: 22px;
   line-height: 26px;
 }
-
-
-
 
 @font-face {
   font-family: 'Roboto-Mediumitalic';
@@ -137,9 +107,6 @@
   line-height: 26px;
 }
 
-
-
-
 @font-face {
   font-family: 'Roboto-Regular';
   src: url('Roboto-Regular.woff') format('woff');
@@ -148,9 +115,6 @@
   font-size: 22px;
   line-height: 26px;
 }
-
-
-
 
 @font-face {
   font-family: 'Roboto-Thin';
@@ -161,9 +125,6 @@
   line-height: 26px;
 }
 
-
-
-
 @font-face {
   font-family: 'Roboto-Thinitalic';
   src: url('Roboto-Thinitalic.woff') format('woff');
@@ -172,4 +133,3 @@
   font-size: 22px;
   line-height: 26px;
 }
-
