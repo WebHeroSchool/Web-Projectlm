@@ -1,14 +1,26 @@
 h1 {
-  font: bold normal 66px/ 87px pt_serifbold_italic;
+  font-family: pt_serifbold_italic;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 66px;
+  line-height: 87px;
 }
 
 p {
-  font: normal normal 22px/ 26px Roboto-Blackitalic;
+  font-family: Roboto-Blackitalic;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 22px;
+  line-height: 26px;
 }
 
 a {
   font-style: normal;
-  font: 500 18px/ 21px Roboto-Blackitalic;
+  font-family: Roboto-Blackitalic;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 18px;
+  line-height: 21px;
 }
 
 button { color: pink; }
@@ -17,7 +29,7 @@ button { color: pink; }
   margin: auto;
   width: 80%;
 }
-ы
+
 body { margin: 0; }
 
 .header {
@@ -29,7 +41,11 @@ body { margin: 0; }
   position: relative;
   padding: 40px 0;
   padding-left: 44px;
-  font: bold normal 24px/ 32px pt_serifitalic;
+  font-family: pt_serifbold_italic;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 24px;
+  line-height: 32px;
 }
 
 .menu {
