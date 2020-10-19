@@ -1,14 +1,14 @@
 h1 {
-  font: bold normal 66px/ 87px pr Serif;
+  font: bold normal 66px/ 87px pt_serifbold_italic;
 }
 
 p {
-  font: normal normal 22px/ 26px roboto;
+  font: normal normal 22px/ 26px Roboto-Blackitalic;
 }
 
 a {
   font-style: normal;
-  font: 500 18px/ 21px roboto;
+  font: 500 18px/ 21px Roboto-Blackitalic;
 }
 
 button { color: pink; }
@@ -17,7 +17,7 @@ button { color: pink; }
   margin: auto;
   width: 80%;
 }
-
+ы
 body { margin: 0; }
 
 .header {
@@ -29,7 +29,7 @@ body { margin: 0; }
   position: relative;
   padding: 40px 0;
   padding-left: 44px;
-  font: bold normal 24px/ 32px PT Serif;
+  font: bold normal 24px/ 32px pt_serifitalic;
 }
 
 .menu {
