@@ -1,5 +1,5 @@
 h1 {
-  font-family: pt_serifbold_italic, italic;
+  font-family: pt_serifbold_italic, arial, sans-serif;
   font-style: normal;
   font-weight: bold;
   font-size: 66px;
@@ -7,7 +7,7 @@ h1 {
 }
 
 p {
-  font-family: Roboto-Blackitalic, italic;
+  font-family: Roboto-Blackitalic, arial, sans-serif;
   font-style: normal;
   font-weight: normal;
   font-size: 22px;
@@ -16,7 +16,7 @@ p {
 
 a {
   font-style: normal;
-  font-family: Roboto-Blackitalic, italic;
+  font-family: Roboto-Blackitalic, itarial, sans-serif;
   font-style: normal;
   font-weight: 500;
   font-size: 18px;
@@ -41,7 +41,7 @@ body { margin: 0; }
   position: relative;
   padding: 40px 0;
   padding-left: 44px;
-  font-family: pt_serifbold_italic, italic;
+  font-family: pt_serifbold_italic, arial, sans-serif;
   font-style: normal;
   font-weight: bold;
   font-size: 24px;
