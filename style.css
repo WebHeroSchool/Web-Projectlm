@@ -41,7 +41,7 @@ body { margin: 0; }
   position: relative;
   padding: 40px 0;
   padding-left: 44px;
-  font-family: bold 24px/31px pt_serif, arial, helvetica, sans-serif
+  font-family: bold 24px/31px pt_serif, arial, helvetica, sans-serif;
   font-style: normal;
   font-weight: bold;
   font-size: 24px;
@@ -57,6 +57,9 @@ body { margin: 0; }
   width: 28px;
   height: 28px;
   position: absolute;
+  left: 0;
+  top: 50%;
+  transform: translateY(-50%);
 }
 
 .menu__item { padding: 0 13px; }
@@ -64,10 +67,6 @@ body { margin: 0; }
 .menu__item:last-child { padding-right: 0; }
 
 .logo__circle_color_dark-blue {
-  position: absolute;
-  left: 0;
-  top: 50%;
-  transform: translateY(-50%);
   background: #0056ec;
   border-radius: 50%;
 }
@@ -77,6 +76,5 @@ body { margin: 0; }
   top: 56%;
   background: #c8dbfb;
   border-radius: 60%;
-  transform: translateY(-50%);
   opacity: 0.7;
 }
