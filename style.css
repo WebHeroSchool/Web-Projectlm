@@ -53,6 +53,12 @@ body { margin: 0; }
   align-items:center;
 }
 
+.logo__circle {
+  width: 28px;
+  height: 28px;
+  position: absolute;
+}
+
 .menu__item { padding: 0 13px; }
 
 .menu__item:last-child { padding-right: 0; }
@@ -60,20 +66,17 @@ body { margin: 0; }
 .logo__circle_color_dark-blue {
   position: absolute;
   left: 0;
-  top: 0;
   top: 50%;
   transform: translateY(-50%);
-  width: 28px;
-  height: 28px;
   background: #0056ec;
   border-radius: 50%;
-  opacity: 0.7;
 }
 
 .logo__circle_color_blue {
   left: 8px;
   top: 56%;
   background: #c8dbfb;
-  border-radius: 50%;
+  border-radius: 60%;
+  transform: translateY(-50%);
   opacity: 0.7;
 }
