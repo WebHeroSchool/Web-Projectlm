@@ -27,7 +27,6 @@ button { color: pink; }
 .wraper {
   margin: auto;
   width: 80%;
-  position: absolute;
 }
 
 body { margin: 0; }
