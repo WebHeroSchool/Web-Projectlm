@@ -60,6 +60,7 @@ body { margin: 0; }
   left: 0;
   top: 50%;
   transform: translateY(-50%);
+  opacity: 0.7;
 }
 
 .menu__item { padding: 0 13px; }
@@ -76,5 +77,4 @@ body { margin: 0; }
   top: 56%;
   background: #c8dbfb;
   border-radius: 60%;
-  opacity: 0.7;
 }
