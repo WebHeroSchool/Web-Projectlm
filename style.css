@@ -1,17 +1,25 @@
 h1 {
-  color: green;
-  font-family: 'Courier Prime', monospace;
+  font-family: pt_serifbold_italic, arial, sans-serif;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 66px;
+  line-height: 87px;
 }
 
 p {
-  font-family: 'Courier Prime', monospace;
-  font-family: 'Merriweather', serif;
+  font-family: Roboto-Blackitalic, arial, sans-serif;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 22px;
+  line-height: 26px;
 }
 
 a {
-  font-family: 'Courier Prime', monospace;
-  font-family: 'Josefin Sans', sans-serif;
-  font-family: 'Merriweather', serif;
+  font-style: normal;
+  font-family: Roboto-Blackitalic, itarial, sans-serif;
+  font-weight: 500;
+  font-size: 18px;
+  line-height: 21px;
 }
 
 button { color: pink; }
@@ -24,18 +32,46 @@ button { color: pink; }
 body { margin: 0; }
 
 .header {
-  display:flex;
-  justify-content:space-between;
+  display: flex;
+  justify-content: space-between;
 }
 
-.logo { padding:40px 0; }
+.logo {
+  position: relative;
+  padding: 40px 0;
+  padding-left: 44px;
+  font: bold 24px/32px pt_serif, arial, helvetica, sans-serif;
+  font-style: normal;
+}
+
 
 .menu {
   display: flex;
   align-items:center;
 }
 
+.logo__circle {
+  width: 28px;
+  height: 28px;
+  position: absolute;
+  left: 0;
+  top: 50%;
+  transform: translateY(-50%);
+  opacity: 0.7;
+}
+
 .menu__item { padding: 0 13px; }
 
 .menu__item:last-child { padding-right: 0; }
 
+.logo__circle_color_dark-blue {
+  background: #0056ec;
+  border-radius: 50%;
+}
+
+.logo__circle_color_blue {
+  left: 8px;
+  top: 56%;
+  background: #c8dbfb;
+  border-radius: 60%;
+}
