@@ -72,11 +72,11 @@ body { margin: 0; }
   margin-right: 0;
 }
 
-.menu__item: hover {
+.menu__item:hover {
   opacity: 0.5;
 }
 
-.menu__item: after {
+.menu__item:after {
   position: absolute;
   display: block;
   content: '';
