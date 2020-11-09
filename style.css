@@ -68,13 +68,9 @@ body { margin: 0; }
   transition: opacity 0.5s;
 }
 
-.menu__item: last-child {
-  margin-right: 0;
-}
+.menu__item: last-child { margin-right: 0; }
 
-.menu__item:hover {
-  opacity: 0.5;
-}
+.menu__item:hover { opacity: 0.5; }
 
 .menu__item:after {
   position: absolute;
@@ -83,7 +79,7 @@ body { margin: 0; }
   left: 0;
   width: 0;
   height: 3px;
-  background: #0056EC;
+  background: #0056ec;
   opacity: 0;
   transition: opacity 0.5s, width 0.5s;
 }
@@ -94,14 +90,14 @@ body { margin: 0; }
 }
 
 .logo__circle_color_dark-blue {
-  background: #0056EC;
+  background: #0056ec;
   border-radius: 50%;
 }
 
 .logo__circle_color_blue {
   left: 8px;
   top: 56%;
-  background: #C8DBFB;
+  background: #c8dbfb;
   border-radius: 60%;
 }
 
