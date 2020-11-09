@@ -61,7 +61,7 @@ body { margin: 0; }
 
 .menu__item {
   margin: 0 13px;
-  font: 500 18px/21px Roboto,arial,helvetica,sans-serif;
+  font: 500 18px/21px Roboto, arial, helvetica, sans-serif;
   text-decoration: none;
   color: #000;
   position: relative;
