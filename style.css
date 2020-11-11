@@ -126,7 +126,7 @@ body { margin: 0; }
 .main {
   padding-right: 63%;
   background: top right no-repeat url('img/mainimg.svg');
-  padding: 0 63% 200px 0;
+  padding: 0px 63% 200px 0px;
 }
 
 .main__title-text_highlight {
