@@ -113,7 +113,7 @@ body { margin: 0; }
   line-height: 87px;
 }
 
-.main__subtitle { 
+.main__subtitle {
   margin: 0 0 41px 0;
   margin-bottom: 41px;
   font-family: Roboto, sans-serif;
@@ -126,7 +126,7 @@ body { margin: 0; }
 .main {
   padding-right: 63%;
   background: top right no-repeat url('img/mainimg.svg');
-  padding: 0px 63% 200px 0px;
+  padding: 0px 63% 100% 0px;
 }
 
 .main__title-text_highlight {
